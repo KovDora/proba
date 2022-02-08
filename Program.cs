@@ -11,6 +11,7 @@ namespace proba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Szia");
         }
     }
 }
